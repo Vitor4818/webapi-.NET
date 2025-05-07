@@ -1,0 +1,16 @@
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\bin\Debug\net9.0\CandidatosBusiness.deps.json
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\bin\Debug\net9.0\CandidatosBusiness.dll
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\bin\Debug\net9.0\CandidatosBusiness.pdb
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\bin\Debug\net9.0\CandidatosModel.dll
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\bin\Debug\net9.0\CandidatosModel.pdb
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\CandidatosBusiness.csproj.AssemblyReference.cache
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\CandidatosBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\CandidatosBusiness.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\CandidatosBusiness.AssemblyInfo.cs
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\CandidatosBusiness.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\CandidatosBusiness.sourcelink.json
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\Candidat.2A1847D4.Up2Date
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\CandidatosBusiness.dll
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\refint\CandidatosBusiness.dll
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\CandidatosBusiness.pdb
+C:\Users\vitor\Documents\.NET fiap\webapi\CandidatosBusiness\obj\Debug\net9.0\ref\CandidatosBusiness.dll
